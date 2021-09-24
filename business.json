@@ -1,0 +1,38 @@
+[
+  {
+    "model": "business_app.business",
+    "pk": 1,
+    "fields": {
+      "created": "2021-09-14T10:59:27.660526+00:00",
+      "modified": "2021-09-14T10:59:27.660526+00:00",
+      "name": "JK Furman und Young",
+      "employee_number": 200,
+      "address": "Berlin",
+      "founder": "Otto Furman"
+    }
+  },
+  {
+    "model": "business_app.business",
+    "pk": 2,
+    "fields": {
+      "created": "2021-09-14T10:59:27.660526+00:00",
+      "modified": "2021-09-14T10:59:27.660526+00:00",
+      "name": "Golden Apples",
+      "employee_number": 1000,
+      "address": "Russia",
+      "founder": "Anton Yablokow"
+    }
+  },
+  {
+    "model": "business_app.business",
+    "pk": 3,
+    "fields": {
+      "created": "2021-09-14T10:59:27.660526+00:00",
+      "modified": "2021-09-14T10:59:27.660526+00:00",
+      "name": "Nuka Cola",
+      "employee_number": 13,
+      "address": "USA",
+      "founder": "Nuka Girl"
+    }
+  }
+]
